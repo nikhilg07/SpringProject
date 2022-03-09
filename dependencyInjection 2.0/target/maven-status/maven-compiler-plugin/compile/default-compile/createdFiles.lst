@@ -1,0 +1,12 @@
+com/quinbay/dependencyInjection/entity/StudentEntityMongoDb.class
+com/quinbay/dependencyInjection/config/SpringFoxConfig.class
+com/quinbay/dependencyInjection/controller/StudentController.class
+com/quinbay/dependencyInjection/dto/Student.class
+com/quinbay/dependencyInjection/DependencyInjectionApplication.class
+com/quinbay/dependencyInjection/service/StudentService.class
+com/quinbay/dependencyInjection/repository/StudentRedisRepository.class
+com/quinbay/dependencyInjection/repository/StudentMongoDbRepository.class
+com/quinbay/dependencyInjection/config/ApplicationConfig.class
+com/quinbay/dependencyInjection/service/StudentServiceImpl.class
+com/quinbay/dependencyInjection/entity/StudentEntity.class
+com/quinbay/dependencyInjection/repository/StudentRepository.class
